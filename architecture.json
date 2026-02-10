@@ -1,0 +1,160 @@
+{
+  "book_id": "asian-postcolonial-minimalist-spiritual-seeking",
+  "title": "The Memory Tree",
+  "tagline": "A woman seeks her roots in the silent language of trees and the ghosts of a Singapore shophouse.",
+  "target_words": 70000,
+  "actual_words": 68194,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Unbelonging & Diasporic Return",
+    "Silence as a Spiritual Medium",
+    "Colonial Haunting & Botanical Memory",
+    "Minimalist Living as a Path to Meaning"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Five-Foot Way",
+      "words": 2841
+    },
+    {
+      "ch": 2,
+      "title": "The Sketchbook",
+      "words": 2841
+    },
+    {
+      "ch": 3,
+      "title": "The Unmooring",
+      "words": 2841
+    },
+    {
+      "ch": 4,
+      "title": "The Tembusu",
+      "words": 2841
+    },
+    {
+      "ch": 5,
+      "title": "Mr. Goh",
+      "words": 2841
+    },
+    {
+      "ch": 6,
+      "title": "The Market",
+      "words": 2841
+    },
+    {
+      "ch": 7,
+      "title": "The First Friday",
+      "words": 2841
+    },
+    {
+      "ch": 8,
+      "title": "Ghosts in Rosewood",
+      "words": 2841
+    },
+    {
+      "ch": 9,
+      "title": "The Shedding Season",
+      "words": 2841
+    },
+    {
+      "ch": 10,
+      "title": "Letters Unsent",
+      "words": 2841
+    },
+    {
+      "ch": 11,
+      "title": "The Broken Pipe",
+      "words": 2841
+    },
+    {
+      "ch": 12,
+      "title": "Kaya and Silence",
+      "words": 2841
+    },
+    {
+      "ch": 13,
+      "title": "The Rain-Tree's Roots",
+      "words": 2841
+    },
+    {
+      "ch": 14,
+      "title": "Auntie Li's Voice",
+      "words": 2841
+    },
+    {
+      "ch": 15,
+      "title": "Concrete and Sap",
+      "words": 2841
+    },
+    {
+      "ch": 16,
+      "title": "The Archive of Air",
+      "words": 2841
+    },
+    {
+      "ch": 17,
+      "title": "Night Flowers",
+      "words": 2841
+    },
+    {
+      "ch": 18,
+      "title": "The Weight of Water",
+      "words": 2841
+    },
+    {
+      "ch": 19,
+      "title": "Felted Silence",
+      "words": 2841
+    },
+    {
+      "ch": 20,
+      "title": "The Tree Man's Gift",
+      "words": 2841
+    },
+    {
+      "ch": 21,
+      "title": "Incantation Failed",
+      "words": 2841
+    },
+    {
+      "ch": 22,
+      "title": "The True Historians",
+      "words": 2841
+    },
+    {
+      "ch": 23,
+      "title": "Before the Words",
+      "words": 2841
+    },
+    {
+      "ch": 24,
+      "title": "Breathing Slowly",
+      "words": 2841
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter where Ming discovers a forgotten object in the shophouse that reveals a family secret tied to a specific native plant.",
+      "Create a dialogue between Ming and Mr. Goh where he explains the 'memory' of a different Singapore tree, using its properties as a metaphor for a historical event.",
+      "Write a flashback chapter from the perspective of the colonial administrator, capturing the moment he abandoned his ledgers to sketch a tree.",
+      "Compose a series of minimalist, haiku-like observations from Ming's journal as she learns to perceive the 'full silence' of the house."
+    ],
+    "technical": [
+      "Build a 'Sonic Atmosphere Generator' that layers field recordings of Singaporean rain, market sounds, and domestic quiet, controllable by the user to create the novel's soundscape.",
+      "Design a 'Botanical Memory Map' interface that visualizes the trees mentioned in the novel, linking each to its historical, personal, and sensory data from the text."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Kazuo Ishiguro",
+      "Yasunari Kawabata",
+      "Ocean Vuong",
+      "Amitav Ghosh"
+    ]
+  },
+  "cover_prompt": "A young woman in a simple linen tunic presses her palm against the ancient, weathered bark of a towering Rain Tree, its roots entwined with the mossy foundation of a Peranakan shophouse, her expression one of profound listening and quiet revelation, within the hushed, semi-lit interior of the shophouse where spectral, translucent forms of colonial-era figures and botanical blueprints fade in and out of view among minimalist furniture and floating dust motes, in the atmospheric style of Ruan Jia with the ethereal melancholy of Maruyama Okyo and the botanical precision of Margaret Mee, book cover framing, centered and intimate composition with a dramatic low-angle perspective looking up at the tree and woman, illuminated by a single shaft of muted, golden afternoon light slicing through a high window, casting long shadows and highlighting textures of wood and plaster, within a restrained color palette of weathered teal, sepia, ash grey, and deep earthy umber with accents of faded botanical green, masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
