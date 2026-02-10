@@ -3769,3 +3769,40 @@ I stared at the words. The address was an incantation that had, perhaps, simply 
 I turned my steps toward Spottiswoode Park. The night air was cool on my skin. Somewhere behind me, in a temple of light, a flawed god was crumbling. Ahead of me, in a shophouse with a blue ceramic frog, a door was finally opening. I walked toward it, the sound of my footsteps on the damp pavement the only drum I needed. The vigil was over. The digging was done.
 
 What remained was to go home.
+
+---
+
+# Epilogue
+## The Five-Foot Way
+
+The blue ceramic frog was there, squat and glazed in the thin morning light, one eye chipped as if winking. The key was not under it. It was in the lock of the heavy, green door, waiting to be turned.
+
+I turned it.
+
+The space inside was not empty. It hummed, but with a different frequency. The dust was gone, swept into the corners of memory. Sunlight, that same geometric cutter from the first day, fell across a floor now marked by the ghost-impressions of furniture long removed. A single mat remained, woven from pandan, brown and resilient. Beside it, a terracotta pot held a cutting from the ixora outside, its roots tentative in new soil.
+
+I had not moved in. I had moved *through*. The shophouse was not a residence, but a vessel. The ghosts were not tenants, but guides. They had shown me their silences—the unsaid departure of a son for a war that wasn’t his, the unwept tears of a mother who traded jade for passage, the cold rage of a colonial clerk pressed into the grain of a desk. I had listened in the language of peeling plaster and night-blooming jasmine. Their stories were not mine to keep, but to acknowledge. In that acknowledgement, the cold presence in my ribs had dissolved, not into nothing, but into the ambient cool of stone that has learned to breathe.
+
+My flat in Crouch End is let to a nice couple who teach at the Montessori school. They send me photos of the philodendron, now improbably lush. The British Library wrote, a polite inquiry about my sabbatical. I sent a polite resignation, my hands no longer interested in repairing the tears of other people’s pressed flowers. My own petals were too real, too fragile, and too alive to be mounted.
+
+Mdm. Lim comes on Tuesdays. She brings *kaya* sandwiches, the toast perfectly crisp, and critiques my posture as I sit on the five-foot way. She never mentions the collapse of the Memory Well. She speaks of the weather, the price of eggs, the stubbornness of her own potted lime tree. Our friendship is a language built entirely of tangential roots. It is enough.
+
+Sometimes, I think of Thorne. The news articles were brief, clinical. “Pioneering memory-tech firm steps back from public launch; CEO cites personal reasons.” I imagine him in some other white room, the silence now a deafening companion. I do not pity him. I recognise him. He is the road I did not take, the replica life I turned away from. His prison was of light; mine was of dust. We both found our keys in the same forgotten soil.
+
+The shophouse holds me lightly. I own very little. A mat. A bowl. A change of clothes. A stack of notebooks filled not with my family’s history, but with my own—sketches of root structures, the names of neighbourhood cats, the quality of light at 4 p.m. on a Tuesday. The minimalism is no longer an aesthetic or an ascetic practice. It is the necessary clearing required to hear the world speak. To feel the monsoon rain coming hours before it falls, in the ache of the ceiling beams. To smell, on a still afternoon, the ghost of cloves and nutmeg from the docks a century gone.
+
+This morning, a letter arrived. Not an email. Paper, in a cream envelope, postmarked from Kuala Lumpur. The handwriting was spidery, unfamiliar. It was from the granddaughter of the woman who had lived here before Auntie Li. She had heard, through the subterranean networks that connect diaspora aunties across borders, that I was here. She included a photograph, sepia-toned and cracked: two women on this very five-foot way, their faces turned toward the camera, their eyes holding a challenge I could feel through the paper. On the back, in fountain pen: *Her name was Lijuan. She taught my grandmother to read. Thank you for listening to the walls.*
+
+I propped the photograph on the windowsill, where the light cuts it into bars. It did not feel like an artifact. It felt like a neighbor, dropping by.
+
+The work I do now is small, and it is everything. I help a community group map the heritage trees in the neighborhood, not their species names, but the names given to them by the people who have lived beneath them: the Umbrella Tree, the Gossip-Pepper, the Rain-Drummer. We record the stories in their shade. It is a different kind of archive. One that breathes.
+
+Tonight, the air is heavy with impending rain. I sit on my mat in the five-foot way, the space for waiting. The street is quiet. A bicycle leans against a lamp post. From a window upstairs, the faint scent of frying garlic.
+
+I am not at peace. Peace is a static thing, and this place is alive with currents. I am, however, belonging. Not to a nation, or a lineage neatly charted. I belong to this specific rectangle of shadow, this particular scent of wet asphalt after rain, this chorus of gecko clicks and distant traffic. I belong to the silence that is not an absence, but a medium—thick, potent, and humming with the stories it has chosen, at last, to yield.
+
+The first drop of rain hits the pavement with a sound like a struck bell. Then another. Then a thousand.
+
+I do not move inside. I sit in the sheltered margin, between the private heart of the house and the public flow of the street, and let the rain fall just beyond my feet. The memory is not a well. It is not a tomb. It is this: a woman on a mat, in a five-foot way, listening to the rain. The vigil is over. The digging is done.
+
+What remains is home.
